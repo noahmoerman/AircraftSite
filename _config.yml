@@ -1,0 +1,12 @@
+name: "AircraftSite"
+description: "Website about aircraft"
+
+url: 'https://AircraftSite.github.io/' 
+baseurl: ''
+
+# Build settings
+gems: [jekyll-paginate]
+markdown: kramdown
+highlighter: rouge
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
